@@ -8,6 +8,6 @@ Given a `String` of characters, print the character that occurs *k* times (*k* i
 ## Exercise 3
 Given a `String` *s*, find the first non-repeating character in it and print its index. If no such character exists, print -1
 
-#Exercise 4
+## Exercise 4
 - Using the `upperBounding` example code, try passing a non-`Shape` to the generic method and see what happens.
 - Now define a marker interface called `TwoDimensional` and make it an additional bounding criteria for computing the total area
